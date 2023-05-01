@@ -1,7 +1,7 @@
 import { FC } from 'react'
 
 const Chat: FC = ({}) => {
-  return <div>Chat</div>
+  return <div>ChatBot</div>
 }
 
 export default Chat
