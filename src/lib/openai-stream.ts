@@ -60,7 +60,6 @@ import {
               controller.enqueue(queue);
               counter++;
             } catch (e) {
-              // maybe parse error
               controller.error(e);
             }
           }
